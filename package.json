@@ -1,0 +1,17 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "json db to provide fake data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": ""
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.9.6"
+  }
+}
